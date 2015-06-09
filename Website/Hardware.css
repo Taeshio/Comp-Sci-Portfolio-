@@ -1,0 +1,36 @@
+/*
+    Document   : Website/Hardware.CSS
+    Created on : 2015-06-09 06:44 PM
+    Author     : LeBoop
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+ul {
+list-style-type:none;
+}
+
+li {
+ float:left;
+ font-size: 40px;
+ background: blue;
+}
+a
+{
+ font-family: Verdana;
+ width: 100px;
+ padding: 5px;
+ text-align: center;
+  background: #1d6991;
+ color: ;
+ text-decoration: none;
+}
+a:hover
+{6
+background: #55a1c8;
+}
+p {
+    font-size: 200%;
+}
+
