@@ -1,0 +1,23 @@
+/*
+    Document   : Website/vind.css
+    Created on : 2015-06-11 12:32 AM
+    Author     : LeBoop
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+#menu li {
+ float:left;
+}
+a
+{
+ font-family: Verdana;
+ display: block;
+ width: 100px;
+ padding: 10px;
+ text-align: center;
+ background: Yellow;
+ color: ;
+ text-decoration: none;
+}

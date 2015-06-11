@@ -1,0 +1,46 @@
+/*
+    Document   : Website/Aboutme.css
+    Created on : 2015-06-10 06:44 PM
+    Author     : LeBoop
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+p {
+   color: yellow; 
+   text-align: center; 
+   font-size: 90 px; 
+   font-family: Comic-sans;
+}
+
+ol { 
+     list-style-type:none; color: yellow; text-align: center;
+}
+table {
+       color: pink; text-align: center; font-family: Verdana;
+}
+
+
+
+ul {
+list-style-type:none;
+}
+
+li {
+ float:right;
+}
+a
+{
+ font-family: Verdana;
+ display: block;
+ width: 100px;
+ padding: 5px;
+ text-align: center;
+ background: greenyellow;
+ color: ;
+ text-decoration: none;
+}
+a:hover
+{
+background: #55a1c8;
+}
