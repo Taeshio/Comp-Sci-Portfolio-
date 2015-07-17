@@ -17,13 +17,12 @@ list-style-type:none;
 }
 a
 {
- font-family: Verdana;
  display: block;
  width: 100px;
- padding: 10px;
+ padding: 20px;
  text-align: center;
- background: Yellow;
- color: ;
+ background: cornflowerblue;
+ color:goldenrod ;
  text-decoration: none;
 }
 a:hover
@@ -35,4 +34,5 @@ tr {
          }
 p {
     text-align: center;
+    
 }

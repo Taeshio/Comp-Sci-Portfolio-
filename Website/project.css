@@ -10,3 +10,28 @@
 root {
     display: block;
 }
+li {
+ float:center;
+}
+a
+{
+ font-family: Verdana;
+ display: block;
+ width: 160px;
+ padding: 5px;
+ text-align: center;
+ background: orangered;
+ color: blue ;
+ font-size: large;
+ text-decoration: none;
+}
+a:hover {
+}
+body {
+    background-image: url("Slate.jpg");
+}
+p
+{
+color: yellowgreen;
+text-align: left;
+}

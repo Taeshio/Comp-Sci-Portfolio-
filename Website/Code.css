@@ -7,13 +7,11 @@
     To change this template use Tools | Templates.
 */
 #menu {
-    width: 770;
+    width: 440;
     height: 125px;
-    font-size: 23px;
+    font-size: 18px;
     font-family: Tahoma, Geneva, sans-serif;
-    font-weight: bold;
     text-align: center;
-    text-shadow: 3px 2px 3px #333333;
     background-color: yellowgreen;
         border-radius: 10px;
        }
@@ -21,11 +19,10 @@
     list-style-type: none
       }
 #menu li {
-  float: left
-    display: inline
+  float: center;
     }
 p {
-    font-family: Arial; color: red;
+    font-family: Arial; color: black;
 }
   
 
