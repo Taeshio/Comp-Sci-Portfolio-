@@ -13,8 +13,8 @@ list-style-type:none;
 
 li {
  float:left;
- font-size: 40px;
- background: blue;
+ font-size: 25px;
+ background: yellowgreen;
 }
 a
 {
@@ -22,7 +22,7 @@ a
  width: 100px;
  padding: 5px;
  text-align: center;
-  background: #1d6991;
+  background: yellowgreen;
  color: ;
  text-decoration: none;
 }
